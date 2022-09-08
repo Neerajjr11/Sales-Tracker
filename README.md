@@ -25,10 +25,10 @@ It is divided into three modules
 
 ## Interactive Routing System
 * The Interactive Routing System consists of an Interactive Map
-* ![image](https://user-images.githubusercontent.com/50861092/189025745-e8bb463d-009b-4dfb-b673-b689aa3ead4b.png)
+![image](https://user-images.githubusercontent.com/50861092/189025745-e8bb463d-009b-4dfb-b673-b689aa3ead4b.png)
 
 * It also Contains the Optimization of Time and Cost using Bitmasking Recrusive algorithm
-* ![Uploading image.png…]()
+![Uploading image.png…]()
 
 ## Sales Chatbot
 * Chatbot Built to specigically help assist the SalesPerson using variouls Machine Learning Problems
