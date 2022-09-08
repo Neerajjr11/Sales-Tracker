@@ -10,7 +10,10 @@ This repository is for the project for the 24-Hour Hackathon conducted by QUBIT,
     - [Interactive Routing System](#interactive-routing-system)
     - [Sales Chatbot](#sales-chatbot)
     - [Web Application](#web-application)
+- [Flow Diagram](#flow-diagram)
+- [Submissions](#submissions)
 - [Authors](#authors)
+
 ## Getting Started
 ```bash
 GMAP_Scheduling_Routing
@@ -278,6 +281,13 @@ It is divided into three modules
 ![image](https://user-images.githubusercontent.com/50861092/189042393-e0a9d487-6fe2-455d-953e-d8219c86c7be.png)
 ![image](https://user-images.githubusercontent.com/50861092/189042419-14433c1a-ebe3-4cb3-9e61-012bb003d7a6.png)
 ![image](https://user-images.githubusercontent.com/50861092/189042462-e6d3a046-93f6-434f-9f36-3e2895cfa8c6.png)
+
+## Flow Diagram
+![image](https://user-images.githubusercontent.com/50861092/189180814-0b32c8ae-70bf-48fa-9536-4b7cec8ee8c9.png)
+
+
+## Submissions
+* ## Presentation Link: [Link](https://drive.google.com/file/d/1sGqe6VurcTKODv2CYpoFMEtWunKqbrOj/view?usp=sharing)
 
 ## Deployment
 
