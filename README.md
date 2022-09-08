@@ -55,10 +55,6 @@ Sales Chatbot
    |-- images
    |   |-- sensim.png
    |   |-- senteval10.png
-   |-- references
-   |   |-- A Survey of Text Similarity Approaches.pdf
-   |   |-- Integrate response retrieval models in assistants built with Rasa.pdf
-   |   |-- inquire-boulder-chatbot-master.zip
    |-- src
    |   |-- .idea
    |   |   |-- .gitignore
@@ -234,6 +230,7 @@ client
    |   |   |-- Alert.js
 package-lock.json
 package.json
+
 
 ```
 
