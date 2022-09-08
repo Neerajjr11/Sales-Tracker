@@ -31,4 +31,13 @@ It is divided into three modules
 ![image](https://user-images.githubusercontent.com/50861092/189025745-e8bb463d-009b-4dfb-b673-b689aa3ead4b.png)
 
 ## Sales Chatbot
-* Chatbot Built to specigically help assist the SalesPerson using variouls Machine Learning Problems
+* Chatbot Built to specifically help assist the SalesPerson using various vectorization algorithms
+![image](https://user-images.githubusercontent.com/50861092/189040252-2e0f9b6b-0e82-4e82-8f33-00283eb96ad2.png)
+![image](https://user-images.githubusercontent.com/50861092/189040276-e1833e87-ced3-4876-b35b-d07f20fb978e.png)
+
+
+## Web Application
+* Built the FrontEnd using React
+![image](https://user-images.githubusercontent.com/50861092/189040710-6a089e4b-70a8-48c1-8eb8-3b5c3ea8c203.png)
+![image](https://user-images.githubusercontent.com/50861092/189040728-d3fe9e1e-aed9-41bb-8084-3ac96ba3f596.png)
+* Built the BackEnd using Node.js and Express.js
